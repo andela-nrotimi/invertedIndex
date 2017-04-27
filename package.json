@@ -1,0 +1,31 @@
+{
+  "name": "invertedindex",
+  "version": "1.0.0",
+  "description": "inverted-index-api-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-nrotimi/invertedIndex.git"
+  },
+  "keywords": [
+    "git",
+    "npm",
+    "api"
+  ],
+  "author": "rotimi nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-nrotimi/invertedIndex/issues"
+  },
+  "homepage": "https://github.com/andela-nrotimi/invertedIndex#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
+    "jasmine-node": "^1.14.5"
+  }
+}
