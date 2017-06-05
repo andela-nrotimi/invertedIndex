@@ -28,6 +28,7 @@ describe('Hello World Server', () => {
     request.get('/')
       .end((error, response) => {
         expect(response.status).toEqual(200);
+        // expect(response.body).toEqual('Hello World');
         done();
       });
   });
